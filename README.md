@@ -1,6 +1,6 @@
 ## LinkedIn Profile Tooltip
 
-This repository contains HTML and CSS code to create a tooltip displaying a LinkedIn profile. When hovering over a LinkedIn icon, a tooltip with profile details appears .
+This repository contains HTML and CSS code to create a tooltip displaying a LinkedIn profile. When hovering over a LinkedIn icon, a tooltip with profile details appears.
 
 ### Preview
 
